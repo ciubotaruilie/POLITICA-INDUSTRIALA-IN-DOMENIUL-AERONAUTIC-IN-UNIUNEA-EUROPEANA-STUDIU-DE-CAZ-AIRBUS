@@ -9,6 +9,9 @@ Obiectivele cercetării sunt:
 - Identificarea punctelor forte ale companiei Airbus, care sunt în concordanță cu politica industrială în domeniul aeronautic în Uniunea Europeană.
 - Identificarea punctelor slabe ale companiei Airbus, care sunt în neconcordanță cu politica industrială în domeniul aeronautic în Uniunea Europeană.
 
+![1](https://github.com/user-attachments/assets/ef2891ef-b830-43e8-99a3-0f764b07750d)
+
+
 ## Metoda de Cercetare
 
 Metoda de cercetare aleasă este un studiu analitic, bazat pe date concrete, culese din surse primare și secundare.
